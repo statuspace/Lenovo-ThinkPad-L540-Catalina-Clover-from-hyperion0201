@@ -6,4 +6,4 @@ Intel Core i5-4300M
 QM87 Chipset
 HD4600
 
-Only naturally based wifi and bluetoth don't work.
+intel 7265ca is working https://www.youtube.com/watch?v=ICpgYtzbxP8
